@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@lk_pages/*": ["lk_pages/*"],
+      "@utility/*": ["utility/*"]
+    }
+  }
+}
